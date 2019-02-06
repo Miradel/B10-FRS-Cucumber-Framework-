@@ -1,6 +1,12 @@
 #This is command line
-
+# We can use # to add command line to our
 # IntelliJi IDEA related files
 
 .idea/
 *.iml/
+
+
+
+# git rm -r --cached .
+#this command is going to remove everything that is cached to be
+updated in your GitHub remote repository
