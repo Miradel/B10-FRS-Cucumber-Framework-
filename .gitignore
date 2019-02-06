@@ -1,2 +1,6 @@
-#command
-target
+#This is command line
+
+# IntelliJi IDEA related files
+
+.idea/
+*.iml/
