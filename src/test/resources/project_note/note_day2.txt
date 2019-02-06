@@ -1,0 +1,23 @@
+Building my Framework structure based on POM and Cucumber principles
+on JAVA level,
+    right click on Java
+    New -> Package
+    name: com.cybertek.pages        (per POM)
+    right click on Java
+    New -> Package
+    name: com.cybertek.utilities    (per POM)
+    right click on Java
+    New -> Package
+    name: com.cybertek.runners      (per Cucumber)
+    right click on Java
+    New -> Package
+    name: com.cybertek.step_defs    (per Cucumber)
+on TEST level,
+    right click on test
+    New -> Directory
+    name: resources                 (per Cucumber)
+    right click on resources folder that you just created
+    Mark Directory as -> Test Resources Root
+    right click on resources
+    New -> Directory
+    name: features                  (per Cucumber)
